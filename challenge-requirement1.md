@@ -48,13 +48,13 @@ Code that contains quotation marks should be placed in a fenced code block or sh
 [Hint Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Hint.png "How to write hints")
 </span>
 
-   <span class="know-icon">Add knowledge blocks and notes to provide additional context. This often includes links to source material]https://skillable.com) on the topic.</span>
+   <span class="know-icon">Add knowledge blocks to provide additional context. This often includes links to [source material]https://skillable.com) on the topic.</span>
 
 <span class="guidance">
 [Knowledge Block Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Knowledge%20Block.png "Proper use of knowledge blocks")
 </span>
 
-   <span class="info-icon">Use a tip to provide helpful hints that will make it easier for learners to perform a task. You can use a tip to provide an lternative method of performing a task. This is used to help explain the "why" of a task, or to point out specific information related to a task</span>
+   <span class="info-icon">Use notes to make it easier for learners to perform a task. You can use a note to provide an alternative method of performing a task. This is used to help explain the "why" of a task, or to point out specific information related to a task</span>
 
 <span class="guidance">
   [Note Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Tip.png "Adding notes to challenge labs")
