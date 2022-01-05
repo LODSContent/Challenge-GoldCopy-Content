@@ -48,6 +48,7 @@ Code that contains quotation marks should be placed in a fenced code block or sh
 ></details>
 
 ```
+
 ><details class="hint-icon">
 ><summary title="Select to Expand">Expand this hint for guidance on creating hints</summary>
 >    - Give the learner guidance on the next task.
