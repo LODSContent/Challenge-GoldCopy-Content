@@ -15,6 +15,7 @@ Optionally, you can define the requirement scenario here.
 ```-linenums
 
 If there is code the learner needs to reference, put it in a "code fence".
+Use ` ` ` (without the spaces) to set the code fence that defines the code block.
 Multiple lines of code placed in a code fence will show up as a block.
 Define code that contains quotation marks. 
 Code that contains quotation marks should be placed in a fenced code block or should use the Copy to clipboard or Type Text features.
