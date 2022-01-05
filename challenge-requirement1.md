@@ -24,6 +24,7 @@ Code that contains quotation marks should be placed in a fenced code block or sh
 [Code Block Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Code.png "How to use code blocks")
 </span>
 
+
    | Element | Reason |
    |:--|:--|
    | Properties | When you want a learner to configure settings or properties, consider using a table. 
@@ -34,6 +35,19 @@ Code that contains quotation marks should be placed in a fenced code block or sh
  [Table Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Table.png "Proper use of tables in challenges")
 </span>
 
+## To create the following hint, use this syntax:
+```
+><details class="hint-icon">
+><summary title="Select to Expand">Expand this hint for guidance on creating hints</summary>
+>    - Give the learner guidance on the next task.
+>    - Each hint should describe one instructional step. 
+>    - Learners should be able to expand a hint for one step without seeing any other hints for the task.
+>    - The hint tells the "how" of the task.
+>    - Use an expandable hint to provide learners with the details of how to perform the action in >the step. 
+>   
+></details>
+
+```
 ><details class="hint-icon">
 ><summary title="Select to Expand">Expand this hint for guidance on creating hints</summary>
 >    - Give the learner guidance on the next task.
