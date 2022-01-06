@@ -1,5 +1,5 @@
 
-!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V2-Framework/master/Templates/LevelSpecific/Logos/@lab.Variable(difficulty).md)
+!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V2-Framework/master/Templates/Intro.md)
 
 >[challenge-title]: Set your title here
 
