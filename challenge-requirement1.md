@@ -106,7 +106,7 @@
 >   
 >   <span class="info-icon">Add information here.</span>
 > 
->   Version 5
+>   Version 6
 
 >[requirement-1-check-your-work]: 
 >   <span class="guidance">
