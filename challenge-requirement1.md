@@ -16,9 +16,7 @@
 > 
 >- Each requirement will have at least one task that a learner must perform in order to complete the requirement. You want to tell them what to do but not how to do it.
 > 
->   <span class="guidance">
 >    [Task Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Instructions.png "Writing great tasks")
->   </span>
 >
 >- Create Code blocks
 >
@@ -31,9 +29,7 @@
 >   Code that contains quotation marks should be placed in a fenced code block or should use the Copy to clipboard or Type Text features.
 >   ```
 > 
->   <span class="guidance">
 >   [Code Block Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Code.png "How to use code blocks")
->   </span>
 > 
 >- To create the following table, use this syntax:
 > 
@@ -51,11 +47,10 @@
 >      | Tables | Tables allow you to display a lot of relevant information in once place without the need to write an instructional step for each setting. |
 >      | Settings |Use tables to display configuration settings. |
 >   
->   <span class="guidance">
 >    [Table Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Table.png "Proper use of tables in challenges")
->   </span>
 > 
 >- To create the following hint, use this syntax:
+>
 >   <!---
 >   ```
 >   
@@ -82,9 +77,7 @@
 >      
 >     </details>
 >   
->   <span class="guidance">
 >   [Hint Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Hint.png "How to write hints")
->   </span>
 > 
 >- To create the following knowledge block, use this syntax:
 > 
@@ -96,9 +89,7 @@
 >   
 >      <span class="know-icon">Add knowledge blocks to provide additional context. This often includes links to [source material]https://skillable.com) on the topic.</span>
 >   
->   <span class="guidance">
 >   [Knowledge Block Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Knowledge%20Block.png "Proper use of knowledge blocks")
->   </span>
 > 
 >- To create the following note, use this syntax:
 > 
@@ -110,9 +101,7 @@
 >   
 >      <span class="info-icon">Use notes to make it easier for learners to perform a task. You can use a note to provide an alternative method of performing a task. This is used to help explain the "why" of a task, or to point out specific information related to a task</> span>
 >   
->   <span class="guidance">
 >     [Note Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Tip.png "Adding notes to challenge labs")
->   </span>
 > 
 > 
 >- To create the following alert, use this syntax:
@@ -125,9 +114,7 @@
 >   
 >   <span class="warn-icon">Use alerts to notify learners of something critical to completing the lab. This could be anything from specific settings that need have specific values to error messages the learner might see and what to do about them.</span>
 >   
->   <span class="guidance">
 >     [Alert Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Alert.png "Adding notes to challenge labs")
->   </span>
 > 
 > 
 > 
@@ -143,7 +130,7 @@
 >   
 >   <span class="info-icon">Add information here.</span>
 > 
->   Version 4
+>   Version 5
 
 >[requirement-1-check-your-work]: 
 >   <span class="guidance">
