@@ -66,38 +66,38 @@
 > 
 >- To create the following knowledge block, use this syntax:
 > 
+>   <span class="know-icon">Add knowledge blocks to provide additional context. This often includes links to [source material]https://skillable.com) on the topic.</span>
+>   
 >   ```
 >   
 >      <span class="know-icon">Add knowledge blocks to provide additional context. This often includes links to [source material]https://skillable.com) on the topic.</span>
 >   
 >   ```
 >   
->   <span class="know-icon">Add knowledge blocks to provide additional context. This often includes links to [source material]https://skillable.com) on the topic.</span>
->   
 >   [Knowledge Block Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Knowledge%20Block.png "Proper use of knowledge blocks")
 > 
 >- To create the following note, use this syntax:
 > 
+>   <span class="info-icon">Use notes to make it easier for learners to perform a task. You can use a note to provide an alternative method of performing a task. This is used to help explain the "why" of a task, or to point out specific information related to a task</> span>
+>   
 >   ```
 >   
 >      <span class="info-icon">Use notes to make it easier for learners to perform a task. You can use a note to provide an alternative method of performing a task. This is used to help explain the "why" of a task, or to point out specific information related to a task</> span>
 >   
 >   ```
 >   
->   <span class="info-icon">Use notes to make it easier for learners to perform a task. You can use a note to provide an alternative method of performing a task. This is used to help explain the "why" of a task, or to point out specific information related to a task</> span>
->   
 >   [Note Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Tip.png "Adding notes to challenge labs")
 > 
 > 
 >- To create the following alert, use this syntax:
+>   
+>   <span class="warn-icon">Use alerts to notify learners of something critical to completing the lab. This could be anything from specific settings that need have specific values to error messages the learner might see and what to do about them.</span>
 >   
 >   ```
 >   
 >      <span class="warn-icon">Use alerts to notify learners of something critical to completing the lab. This could be anything from specific settings that need have specific values to error messages the learner might see and what to do about them.</span>
 >   
 >   ```
->   
->   <span class="warn-icon">Use alerts to notify learners of something critical to completing the lab. This could be anything from specific settings that need have specific values to error messages the learner might see and what to do about them.</span>
 >   
 >   [Alert Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Alert.png "Adding notes to challenge labs")
 > 
