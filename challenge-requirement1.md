@@ -12,7 +12,7 @@
 > 
 > Optionally, you can define the requirement scenario here.
 > 
-> - Each requirement will have at least one task that a learner must perform in order to complete the requirement. You want to tell them what to do but not how to do it.
+>- Each requirement will have at least one task that a learner must perform in order to complete the requirement. You want to tell them what to do but not how to do it.
 > 
 > <span class="guidance">
 >  [Task Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Instructions.png "Writing great tasks")
@@ -122,7 +122,7 @@
 > 
 > 
 > 
-> - Add multiple tasks for every requirement.
+>- Add multiple tasks for every requirement.
 > 
 >    <details class="hint-icon">
 >    <summary title="Select to Expand">Expand this hint for guidance on ...</summary>
