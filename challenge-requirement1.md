@@ -59,15 +59,15 @@ Code that contains quotation marks should be placed in a fenced code block or sh
 
 ```
 
-    <details class="hint-icon">
-    <summary title="Select to Expand">Expand this hint for guidance on creating hints</summary>
-    - Give the learner guidance on the next task.
-    - Each hint should describe one instructional step. 
-    - Learners should be able to expand a hint for one step without seeing any other hints for the task.
-    - The hint tells the "how" of the task.
-    - Use an expandable hint to provide learners with the details of how to perform the action in >the step. 
-   
-    </details>
+>    <details class="hint-icon">
+>    <summary title="Select to Expand">Expand this hint for guidance on creating hints</summary>
+>    - Give the learner guidance on the next task.
+>    - Each hint should describe one instructional step. 
+>    - Learners should be able to expand a hint for one step without seeing any other hints for the task.
+>    - The hint tells the "how" of the task.
+>    - Use an expandable hint to provide learners with the details of how to perform the action in >the step. 
+>   
+>    </details>
 
 <span class="guidance">
 [Hint Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Hint.png "How to write hints")
