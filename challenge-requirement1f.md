@@ -116,7 +116,7 @@
 >   <span class="info-icon">Add information here.</span>
 > 
 
- @lab.Activity(SimpleScript) 
+   @lab.Activity(SimpleScript) 
 
  @lab.Activity(ScoringFramework)
 
