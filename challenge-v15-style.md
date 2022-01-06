@@ -76,7 +76,6 @@ h1:first-child{
     background-position: center;
     background-repeat: no-repeat;
 }
-/*
 
 .instructions .logo-guided {
     background-image: url(https://lodmanuals.blob.core.windows.net/lms/2020%20Challenge%20Labs%20Graphics/Challenge-Labs-Guided-16x9.jpg);
@@ -90,7 +89,6 @@ h1:first-child{
     background-image: url(https://lodmanuals.blob.core.windows.net/lms/2020%20Challenge%20Labs%20Graphics/Challenge-Labs-Expert-16x9.jpg);
 }
 
-*/
 /* Tables */
 
 .instructions .page table td {
@@ -272,9 +270,5 @@ h1:first-child{
 div[ref=challenge-title],
 div[ref=challenge-title] p {
     display: inline;
-}
-#page0 { 
-    text-align:left; 
-    padding:15px 20px;        
 }
 </style>
