@@ -1,11 +1,6 @@
-<span class="guidance">
-[Requirement Title Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Task%20Title.png "Tips for writing engaging requirement titles")
-</span>
-
-
 !INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V2-Framework/master/Templates/Requirements/Requirement1.md)
 
->[requirement-1-title]:  The requirement title goes here
+>[requirement-1-title]:  [The requirement title goes here](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Task%20Title.png "Tips for writing engaging requirement titles")
 
 >[requirement-1-tasks]:
 >- Each requirement will have at least one task that a learner must perform in order to complete the requirement. You want to tell them what to do but not how to do it.
@@ -106,7 +101,7 @@
 >   
 >   <span class="info-icon">Add information here.</span>
 > 
->   Version 7
+>   Version 8
 
 >[requirement-1-check-your-work]: 
 >   <span class="guidance">
