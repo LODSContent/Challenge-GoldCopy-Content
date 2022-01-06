@@ -283,4 +283,13 @@ div[ref=challenge-title],
 div[ref=challenge-title] p {
     display: inline;
 }
+
+#page0 h1 {
+    font-weight: normal;
+    border-bottom: solid 1px;
+    margin:20px 0; 
+    font-size:28px; 
+    border-top: solid 1px; 
+    padding:20px 0;        
+}
 </style>
