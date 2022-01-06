@@ -8,39 +8,17 @@
 >[requirement-1-title]:  The requirement title goes here
 
 >[requirement-1-tasks]:
-> 
-> 
-> 
-> 
-> Optionally, you can define the requirement scenario here.
-> 
 >- Each requirement will have at least one task that a learner must perform in order to complete the requirement. You want to tell them what to do but not how to do it.
 > 
 >    [Task Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Instructions.png "Writing great tasks")
 >
 >- Create Code blocks
 >
->   ```-linenums
->   
->   If there is code the learner needs to reference, put it in a "code fence".
->   Use ` ` ` and ` ` ` (without the spaces) to set the code fence that defines the code block.
->   Multiple lines of code placed in a code fence will show up as a block.
->   Define code that contains quotation marks. 
->   Code that contains quotation marks should be placed in a fenced code block or should use the Copy to clipboard or Type Text features.
->   ```
 > 
 >   [Code Block Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Code.png "How to use code blocks")
 > 
 >- To create the following table, use this syntax:
 > 
->   ```
->      | Element | Reason |
->      |:--|:--|
->      | Properties | When you want a learner to configure settings or properties, consider using a table. |
->      | Tables | Tables allow you to display a lot of relevant information in once place without the need to write an instructional step for each setting. |
->      | Settings |Use tables to display configuration settings. |
->   ```
->   
 >      | Element | Reason |
 >      |:--|:--|
 >      | Properties | When you want a learner to configure settings or properties, consider using a table. |
@@ -51,7 +29,6 @@
 > 
 >- To create the following hint, use this syntax:
 >
->   <!---
 >   ```
 >   
 >     <details class="hint-icon">
@@ -65,7 +42,6 @@
 >     </details>
 >   
 >   ```
->    -->
 >   
 >     <details class="hint-icon">
 >     <summary title="Select to Expand">Expand this hint for guidance on creating hints</summary>
