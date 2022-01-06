@@ -40,16 +40,16 @@
 >   ```
 >      | Element | Reason |
 >      |:--|:--|
->      | Properties | When you want a learner to configure settings or properties, consider using a table. 
->      | Tables | Tables allow you to display a lot of relevant information in once place without the need to write an instructional step for each setting. 
->      | Settings |Use tables to display configuration settings. 
+>      | Properties | When you want a learner to configure settings or properties, consider using a table. |
+>      | Tables | Tables allow you to display a lot of relevant information in once place without the need to write an instructional step for each setting. |
+>      | Settings |Use tables to display configuration settings. |
 >   ```
 >   
 >      | Element | Reason |
 >      |:--|:--|
->      | Properties | When you want a learner to configure settings or properties, consider using a table. 
->      | Tables | Tables allow you to display a lot of relevant information in once place without the need to write an instructional step for each setting. 
->      | Settings |Use tables to display configuration settings. 
+>      | Properties | When you want a learner to configure settings or properties, consider using a table. |
+>      | Tables | Tables allow you to display a lot of relevant information in once place without the need to write an instructional step for each setting. |
+>      | Settings |Use tables to display configuration settings. |
 >   
 >   <span class="guidance">
 >    [Table Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Table.png "Proper use of tables in challenges")
@@ -143,7 +143,7 @@
 >   
 >   <span class="info-icon">Add information here.</span>
 > 
->   Version 3
+>   Version 4
 
 >[requirement-1-check-your-work]: 
 >   <span class="guidance">
