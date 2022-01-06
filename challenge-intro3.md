@@ -11,6 +11,4 @@
 - [Title Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Title.png "Guidance on creating great titles")
 - [Overview Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Challenge%20Labs%20Overview%20Section.png "How to write a great overview")
 
-
-!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V2-Framework/master/Templates/LabHelp.md)
 ===
