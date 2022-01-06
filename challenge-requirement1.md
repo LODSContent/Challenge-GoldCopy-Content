@@ -87,7 +87,7 @@
 >   
 >   <span class="info-icon">Add information here.</span>
 > 
->   Version 8
+>   Version 9
 
 >[requirement-1-check-your-work]: 
 >   <span class="guidance">
