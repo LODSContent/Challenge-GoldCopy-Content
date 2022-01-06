@@ -115,16 +115,11 @@
 >   
 >   <span class="info-icon">Add information here.</span>
 > 
->   Version 10
-
-## Check you work
 
  @lab.Activity(SimpleScript) 
 
  @lab.Activity(ScoringFramework)
 
- <span class="guidance">
  [Check your Work guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Check%20Your%20Work.png "How to help learners validate their work with Check Your Work entries")
- </span>
 
  ===
