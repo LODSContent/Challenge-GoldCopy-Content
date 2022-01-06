@@ -41,6 +41,14 @@
     margin-top: 0;
 }
 
+#page0 {
+    text-align: left;
+}
+
+h1#instructionschallenge-title {
+    text-align: center;
+}
+
 .instructions #page0 h2 {
     margin-top: 1.5em;
 }
@@ -54,6 +62,10 @@
 
 .instructions #page0 details span[class$="-icon"] {
     margin: 0.5em 0 0.1em 3em
+}
+
+.help ul li{
+    list-style: none;
 }
 
 /* Other pages*/
