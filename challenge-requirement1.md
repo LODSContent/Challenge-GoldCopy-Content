@@ -41,7 +41,7 @@
 >         
 >     </details>
 >   
->   ```
+>```
 >   
 >     <details class="hint-icon">
 >     <summary title="Select to Expand">Expand this hint for guidance on creating hints</summary>
@@ -106,7 +106,7 @@
 >   
 >   <span class="info-icon">Add information here.</span>
 > 
->   Version 6
+>   Version 7
 
 >[requirement-1-check-your-work]: 
 >   <span class="guidance">
