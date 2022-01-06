@@ -17,7 +17,8 @@
 > <span class="guidance">
 >  [Task Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Instructions.png "Writing great tasks")
 > </span>
-> 
+>
+>- Create Code blocks
 > ```-linenums
 > 
 > If there is code the learner needs to reference, put it in a "code fence".
@@ -31,7 +32,7 @@
 > [Code Block Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Code.png "How to use code blocks")
 > </span>
 > 
-> ## To create the following table, use this syntax:
+>- To create the following table, use this syntax:
 > 
 > ```
 >    | Element | Reason |
@@ -51,7 +52,7 @@
 >  [Table Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Table.png "Proper use of tables in challenges")
 > </span>
 > 
-> ## To create the following hint, use this syntax:
+>- To create the following hint, use this syntax:
 > ```
 > 
 >   <details class="hint-icon">
@@ -80,7 +81,8 @@
 > [Hint Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Hint.png "How to write hints")
 > </span>
 > 
-> ## To create the following knowledge block, use this syntax:
+>- To create the following knowledge block, use this syntax:
+> 
 > ```
 > 
 >    <span class="know-icon">Add knowledge blocks to provide additional context. This often includes links to [source material]https://skillable.com) on the topic.</span>
@@ -93,7 +95,8 @@
 > [Knowledge Block Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Knowledge%20Block.png "Proper use of knowledge blocks")
 > </span>
 > 
-> ## To create the following note, use this syntax:
+>- To create the following note, use this syntax:
+> 
 > ```
 > 
 >    <span class="info-icon">Use notes to make it easier for learners to perform a task. You can use a note to provide an alternative method of performing a task. This is used to help explain the "why" of a task, or to point out specific information related to a task</> span>
@@ -107,7 +110,8 @@
 > </span>
 > 
 > 
-> ## To create the following alert, use this syntax:
+>- To create the following alert, use this syntax:
+> 
 > ```
 > 
 >    <span class="warn-icon">Use alerts to notify learners of something critical to completing the lab. This could be anything from specific settings that need have specific values to error messages the learner might see and what to do about them.</span>
