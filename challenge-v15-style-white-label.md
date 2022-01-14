@@ -168,7 +168,7 @@ h1:first-child{
 .instructions details summary::after {
     display: inline-block;
     content: " ";
-    background-image: url("https://labondemand.blob.core.windows.net/content/lab104545/arrow.svg");
+    background-image: url("https://lodmanuals.blob.core.windows.net/lms/2020%20Challenge%20Labs%20Graphics/arrow.svg");
     /* Height/width needs to match image bg */
     height: 13.5px;
     width: 7.5px;
@@ -288,9 +288,9 @@ div[ref=challenge-title] p {
 #page0 h1 {
     font-weight: normal;
     border-bottom: solid 1px;
-    margin:20px 0; 
-    font-size:28px; 
-    border-top: solid 1px; 
-    padding:20px 0;        
+    margin:20px 0;
+    font-size:28px;
+    border-top: solid 1px;
+    padding:20px 0;
 }
 </style>
