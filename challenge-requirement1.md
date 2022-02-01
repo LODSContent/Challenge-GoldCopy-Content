@@ -118,7 +118,6 @@
 
    @lab.Activity(SimpleScript) 
 
- @lab.Activity(ScoringFramework)
 
  [Check your Work guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Check%20Your%20Work.png "How to help learners validate their work with Check Your Work entries")
 
