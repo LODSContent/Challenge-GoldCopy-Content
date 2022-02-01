@@ -8,7 +8,7 @@
 
 :::help
 ## Lab development links
-- [Lab Environment Documentation](https://labondemand.com/LabProfile/Instructions/111497 "Lab Environment Documentation")
+- !INSTRUCTIONS[][documentation]
 - [Title Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Title.png "Guidance on creating great titles")
 - [Overview Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Challenge%20Labs%20Overview%20Section.png "How to write a great overview")
 :::
