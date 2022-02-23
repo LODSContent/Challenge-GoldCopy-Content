@@ -116,7 +116,7 @@
 >   <span class="info-icon">Add information here.</span>
 > 
 
-   @lab.Activity(SimpleScript) 
+@lab.ActivityGroup(examples)
 
 
  [Check your Work guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Check%20Your%20Work.png "How to help learners validate their work with Check Your Work entries")
