@@ -42,3 +42,4 @@ We have recently updated the look and feel of challenge labs. In the process, th
 
 
 ```
+**Test Delete**
