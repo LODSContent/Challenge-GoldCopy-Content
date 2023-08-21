@@ -1,6 +1,6 @@
 <style>
 .instructions .logo-guided {
-    background-image: url(https://lodmanuals.blob.core.windows.net/lms/SkillChalllogo/SkillChallenge/Skillable Challenges Color.svg);
+    background-image: url(https://lodmanuals.blob.core.windows.net/lms/SkillChalllogo/SkillChallenge/Skillable%20Challenges%20Color.svg);
 }
 
 .instructions .logo-advanced {
