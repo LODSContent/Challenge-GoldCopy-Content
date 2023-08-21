@@ -90,7 +90,7 @@ h1:first-child{
 }
 
 .instructions .logo-guided {
-    background-image: url(https://lodmanuals.blob.core.windows.net/lms/2020%20Challenge%20Labs%20Graphics/Challenge-Labs-Guided-16x9v1.1.jpg);
+    background-image: url(https://lodmanuals.blob.core.windows.net/lms/SkillChalllogo/SkillChallenge/Skillable Challenges Color.svg);
 }
 
 .instructions .logo-advanced {
