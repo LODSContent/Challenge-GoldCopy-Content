@@ -4,6 +4,7 @@ We have recently updated the look and feel of challenge labs. In the process, th
 
 **Hint**
 
+
 ```
 ><details class="hint-icon">
 ><summary title="Select to Expand">Expand this hint for guidance on creating hints</summary>
@@ -42,3 +43,5 @@ We have recently updated the look and feel of challenge labs. In the process, th
 
 
 ```
+
+**Test Delete**
